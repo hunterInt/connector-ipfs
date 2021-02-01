@@ -67,13 +67,13 @@ Once you have built the project run the following commands as per your requireme
 ##### Get help
 
 ```
-$ ./connector-ipfs --help
+$ ./connector-ipfs help
 ```
 
 ##### Check version
 
 ```
-$ ./connector-ipfs --version
+$ ./connector-ipfs version
 ```
 
 ##### Create backup from ipfs and upload to Storj
